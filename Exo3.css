@@ -1,0 +1,46 @@
+.label1{
+    width: 30%;
+    position: absolute;
+    left: 35%;
+}
+.input1{
+    width: 30%;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}
+.submit1{
+    width: 10%;
+    height: 5%;
+    background-color: blue;
+    position: absolute;
+    left: 30%;
+    top: 15%;
+}
+.reset1{
+    width: 10%;
+    height: 5%;
+    background-color: red;
+    position: absolute;
+    left: 45%;
+    top: 15%;
+}
+#boucle{
+    width: 70%;
+    height: 50%;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+.affiche{
+    width: 70%;
+    height: 10%;
+    font-size: 16px;
+}
+.resultat{
+    background-color: green;
+    width: 20%;
+    height: 10%;
+    position: absolute;
+    left: 35%;
+}
